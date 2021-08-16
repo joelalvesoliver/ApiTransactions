@@ -1,2 +1,5 @@
 # Reprocessamento de Transações
-Api responsável por reprocessamento de transações a partir do backoffice
+Api para reprocessamento de transações a partir do backoffice
+- Filtro de buscas customizadas
+- Filtro de buscas avançadas
+- Filtro de busca
